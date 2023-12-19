@@ -8,7 +8,7 @@ Thank you for coming here!🧐
 
 ° I am a Frontend 🖼 Developer💻 who is hungry for new opportunities to prove myself!📈
 
-° Right now I'm learning React and Redux to become even better at producing beautiful and responsive user experience for your business! 
+° Right now I'm learning React and Redux to become even better at producing beautiful and better user experiences for your business! 
 
   
 
